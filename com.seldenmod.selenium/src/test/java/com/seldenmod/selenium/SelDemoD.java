@@ -1,5 +1,4 @@
 package com.seldenmod.selenium;
-import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
