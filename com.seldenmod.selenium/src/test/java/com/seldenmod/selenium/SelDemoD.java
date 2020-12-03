@@ -12,7 +12,7 @@ public class SelDemoD {
 
 public void PrintSel()
 {
-	System.out.println("This is a selenium demo 1");
+	System.out.println("This is a selenium demo 123");
 }
 
 }
